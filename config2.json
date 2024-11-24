@@ -1,0 +1,7 @@
+{
+  "comment": "constant calculation",
+  "constant_1": 123,
+  "constant_2": "hello",
+  "constant_3": "|constant_2|",
+  "constant_4": "|constant_1|"
+}

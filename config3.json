@@ -1,0 +1,39 @@
+{
+    "name": "Городская библиотека",
+    "location": "Москва, Россия",
+    "book1":
+      {
+        "title": "Война и мир",
+        "author": "Лев Толстой",
+        "published_year": 1869,
+        "genre": "роман-эпопея",
+        "availability": {
+          "available_copies": 3,
+          "total_copies": 10
+        }
+      },
+    "book2":
+      {
+        "title": "1984",
+        "author": "Джордж Оруэлл",
+        "published_year": 1949,
+        "genre": "роман",
+        "availability": {
+          "available_copies": 0,
+          "total_copies": 5
+        }
+      },
+    "book3":
+      {
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "published_year": 1967,
+        "genre":"фантастика",
+        "availability": {
+          "available_copies": 2,
+          "total_copies": 7
+        }
+      }
+
+}
+

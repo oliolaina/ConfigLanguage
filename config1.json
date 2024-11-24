@@ -1,0 +1,12 @@
+{
+ "comment": "configuration example",
+ "player": {
+  "name": "Player1",
+  "health": "100",
+  "level": "1",
+  "inventory": {
+   "weapon": "sword",
+   "items": "potion"
+  }
+ }
+}
